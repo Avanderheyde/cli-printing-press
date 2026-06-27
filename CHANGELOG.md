@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.27.1](https://github.com/mvanhorn/cli-printing-press/compare/v4.27.0...v4.27.1) (2026-06-27)
+
+
+### Bug Fixes
+
+* **cli:** add examples to jobs commands ([#3356](https://github.com/mvanhorn/cli-printing-press/issues/3356)) ([a264fd5](https://github.com/mvanhorn/cli-printing-press/commit/a264fd5eae790ea66a7769e0fe42b940ec8de9b4))
+* **cli:** emit live dogfood tier annotations ([#3355](https://github.com/mvanhorn/cli-printing-press/issues/3355)) ([1f65658](https://github.com/mvanhorn/cli-printing-press/commit/1f6565860a98c69eee20d993a5b5fe9202c942b0))
+
 ## [4.27.0](https://github.com/mvanhorn/cli-printing-press/compare/v4.26.1...v4.27.0) (2026-06-27)
 
 
